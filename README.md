@@ -21,7 +21,7 @@ cd HCO-CAMHUNT
 python3 HCO-CAMHUNT.py
 ```
 # Screenshot 
-![Image](https://github.com/user-attachments/assets/5526c586-438b-4eb5-9ce8-bfea0350e676)
+![Image](https://uploads.onecompiler.io/444ewq55c/444j6spzs/1000361441.jpg)
 # 🎯 How It Works?
 
 🔹 Runs a lightweight Flask server to initiate image capture.
@@ -38,8 +38,8 @@ python3 HCO-CAMHUNT.py
 ✅ Ethical & Secure Usage
 
 # credits 
-👨‍💻 Created by HCO hackers | 🔗 GitHub: [https://github.com/DHThackers-10]
-Whatsapp community: [https://chat.whatsapp.com/G2hCkCzylra2OENEfhH8Os]
+👨‍💻 Created by HCO hackers | 🔗 GitHub: [https://github.com/anonymous404-hash]
+Whatsapp community: [https://chat.whatsapp.com/IWdwJxRjt260h9ax94AGNN?mode=ems_copy_t]
 
 
 -
